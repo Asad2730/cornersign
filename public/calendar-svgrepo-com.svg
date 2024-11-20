@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21.5" height="21" viewBox="0 0 21.5 21">
+  <g id="calendar-svgrepo-com" transform="translate(-1.25 -1.75)" opacity="0.6">
+    <path id="Path_79055" data-name="Path 79055" d="M2,12C2,8.229,2,6.343,3.172,5.172S6.229,4,10,4h4c3.771,0,5.657,0,6.828,1.172S22,8.229,22,12v2c0,3.771,0,5.657-1.172,6.828S17.771,22,14,22H10c-3.771,0-5.657,0-6.828-1.172S2,17.771,2,14Z" fill="none" stroke="#5e99a0" stroke-width="1.5"/>
+    <path id="Path_79056" data-name="Path 79056" d="M7,4V2.5" fill="none" stroke="#5e99a0" stroke-linecap="round" stroke-width="1.5" opacity="0.5"/>
+    <path id="Path_79057" data-name="Path 79057" d="M17,4V2.5" fill="none" stroke="#5e99a0" stroke-linecap="round" stroke-width="1.5" opacity="0.5"/>
+    <path id="Path_79058" data-name="Path 79058" d="M2.5,9h19" fill="none" stroke="#5e99a0" stroke-linecap="round" stroke-width="1.5" opacity="0.5"/>
+    <path id="Path_79059" data-name="Path 79059" d="M18,17a1,1,0,1,1-1-1A1,1,0,0,1,18,17Z" fill="#5e99a0"/>
+    <path id="Path_79060" data-name="Path 79060" d="M18,13a1,1,0,1,1-1-1A1,1,0,0,1,18,13Z" fill="#5e99a0"/>
+    <path id="Path_79061" data-name="Path 79061" d="M13,17a1,1,0,1,1-1-1A1,1,0,0,1,13,17Z" fill="#5e99a0"/>
+    <path id="Path_79062" data-name="Path 79062" d="M13,13a1,1,0,1,1-1-1A1,1,0,0,1,13,13Z" fill="#5e99a0"/>
+    <path id="Path_79063" data-name="Path 79063" d="M8,17a1,1,0,1,1-1-1A1,1,0,0,1,8,17Z" fill="#5e99a0"/>
+    <path id="Path_79064" data-name="Path 79064" d="M8,13a1,1,0,1,1-1-1A1,1,0,0,1,8,13Z" fill="#5e99a0"/>
+  </g>
+</svg>

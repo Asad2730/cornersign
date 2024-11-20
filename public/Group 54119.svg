@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="59" height="59" viewBox="0 0 59 59">
+  <defs>
+    <filter id="Ellipse_127" x="0" y="0" width="59" height="59" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_54119" data-name="Group 54119" transform="translate(-465 -381)">
+    <g transform="matrix(1, 0, 0, 1, 465, 381)" filter="url(#Ellipse_127)">
+      <circle id="Ellipse_127-2" data-name="Ellipse 127" cx="20.5" cy="20.5" r="20.5" transform="translate(9 6)" fill="#fff"/>
+    </g>
+    <g id="camera-svgrepo-com" transform="translate(483 396)">
+      <circle id="Ellipse_128" data-name="Ellipse 128" cx="3" cy="3" r="3" transform="translate(9 10)" fill="none" stroke="#5e99a0" stroke-width="1.5"/>
+      <path id="Path_79040" data-name="Path 79040" d="M9.778,21h4.444c3.121,0,4.682,0,5.8-.735a4.408,4.408,0,0,0,1.226-1.2c.749-1.1.749-2.633.749-5.7s0-4.6-.749-5.7a4.407,4.407,0,0,0-1.226-1.2,5.751,5.751,0,0,0-3-.7,1.406,1.406,0,0,1-1.355-1.124A2.064,2.064,0,0,0,13.634,3H10.366A2.064,2.064,0,0,0,8.333,4.636,1.406,1.406,0,0,1,6.978,5.761a5.75,5.75,0,0,0-3,.7,4.4,4.4,0,0,0-1.226,1.2C2,8.767,2,10.3,2,13.364s0,4.6.749,5.7a4.406,4.406,0,0,0,1.226,1.2C5.1,21,6.657,21,9.778,21Z" fill="none" stroke="#5e99a0" stroke-width="1.5"/>
+      <path id="Path_79041" data-name="Path 79041" d="M19,10H18" fill="none" stroke="#5e99a0" stroke-linecap="round" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>
